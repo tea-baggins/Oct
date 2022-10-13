@@ -1,7 +1,7 @@
-console.log("Hello QA!");
 let a = 10;
 let b = 20;
 let res = a + b;
+console.log(res);
 
 function calculator(a, b, operation) {
   if (operation == "+") {
