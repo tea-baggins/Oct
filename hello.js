@@ -28,5 +28,5 @@ function calc(a, b, sign) {
   if (sign == "+") result = a + b;
   return result;
 }
-
+//log 1
 console.log(calc(2, 4, "+"));
