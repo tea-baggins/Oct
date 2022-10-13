@@ -30,3 +30,6 @@ function calc(a, b, sign) {
 }
 //log 1
 console.log(calc(2, 4, "+"));
+
+//log2
+console.log(calc(5, 7, "+"));
