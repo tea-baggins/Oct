@@ -22,3 +22,9 @@ console.log(calculator(10, 15, "+"));
 console.log(calculator(45, 40, "-"));
 console.log(calculator(4, 9, "*"));
 console.log(calculator(10, 0, "/"));
+
+function calc(a, b, sign) {
+  let result;
+  if (sign == "+") result = a + b;
+  return result;
+}
