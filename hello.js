@@ -28,3 +28,5 @@ function calc(a, b, sign) {
   if (sign == "+") result = a + b;
   return result;
 }
+
+console.log(calc(2, 4, "+"));
